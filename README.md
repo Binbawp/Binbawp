@@ -1,6 +1,6 @@
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trandangkhoa06/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trandangkhoa2624@gmail.com) 
+# 👋 Hi, I'm Binbawp!
+🏫 Currently learning Computer Science at ![University of Greenwich](https://greenwich.edu.vn/en/english/).
+🏋️‍♂️ Weightlifting beside coding to keep me sane lol
 
 ## 💻 Tech Stack:
 # Programming Languages:
