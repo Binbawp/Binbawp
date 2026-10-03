@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Binbawp!
-🏫 Currently learning Computer Science at [University of Greenwich](https://greenwich.edu.vn/en/english/). </br>
+🏫 Currently learning Computer Science at the [University of Greenwich](https://greenwich.edu.vn/en/english/). </br>
 🏋️‍♂️ Weightlifting beside coding to keep me sane lol
 
 ## 💻 Tech Stack:
